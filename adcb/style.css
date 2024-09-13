@@ -1,0 +1,614 @@
+.page1-section{ 
+    width: 100%;
+    position: relative;
+    background-size:cover;
+}
+.section1{
+    background-color: black;
+    position: relative;
+    background-size:contain;
+    background-position: 100%;
+}
+.img1 {
+    position: relative;
+    width: 250px;
+    left: 1139px;
+    top: 0px;
+}
+.text1{
+    color: aliceblue;
+    position: absolute;
+    top: 27px;
+    left: 74px;
+}
+.text2{
+    color: aliceblue;
+    position: absolute;
+    top: 70px;
+    left:74px;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+.texthead1 {
+    text-decoration-color: red;
+    color: red;
+    position: absolute;
+}
+.text3 {
+    position: relative;
+    top: 48px;
+}
+.subhead1 {
+    position: relative;
+    top: 56px;
+    background-color: black;
+    color: aliceblue;
+}
+.texthead1\.1 {
+    position: relative;
+    color: red;
+    top: 58px;
+}
+.text4 {
+    position: relative;
+    color: black;
+    top: 55px;
+}
+.texthead2 {
+    color: red;
+    position: relative;
+    top: 59px;
+}
+.text5 {
+    position: relative;
+    top: 63px;
+    color: black;
+}
+.texthead3 {
+    color: red;
+    position: relative;
+    top: 69px;
+}
+.text6 {
+    position: relative;
+    top: 80px;
+    color: black;
+}
+.texthead4 {
+    position: relative;
+    color: red;
+    top: 85px;
+}
+.text7 {
+    position: relative;
+    top: 87px;
+    color: black;
+}
+.texthead5 {
+    position: relative;
+    color: red;
+    top: 86px;
+}
+.text8 {
+    position: relative;
+    top: 100px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    position: relative;
+}
+.texthead6 {
+    color: red;
+    position: absolute;
+    right: 108px;
+}
+.text9 {
+    top: 73px;
+    position: absolute;
+}
+.subhead2 {
+    position: absolute;
+    top: 156px;
+    right: 219px;
+    background-color: black;
+    color: aliceblue;
+}
+.texthead2\.1 {
+    position: absolute;
+    color: red;
+    right: 100px;
+    top: 207px;
+}
+.text10 {
+    position: absolute;
+    color: black;
+    top: 246px;
+}
+.texthead7 {
+    color: red;
+    position: absolute;
+    top: 300px;
+    right: 100px;
+}
+.text11 {
+    position: absolute;
+    top: 361px;
+    color: black;
+}
+.texthead8 {
+    color: red;
+    position: absolute;
+    top: 598px;
+    right: 100px;
+}
+.text13 {
+    position: absolute;
+    top: 652px;
+    color: black;
+}
+.text14 {
+    position: absolute;
+    top: 790px;
+}
+
+.texthead9 {
+    position: absolute;
+    color: red;
+    top: 736px;
+    right: 100px;
+}
+.texthead10 {
+    position: absolute;
+    color: red;
+    top: 813px;
+    right: 100px;
+}
+.text15 {
+    position: absolute;
+    top: 864px;
+    color: black;
+}
+
+
+  
+
+
+
+
+
+.img2 {
+    position: relative;
+    width: 250px;
+    left: 386px;
+    top: -11px;
+}
+
+.section2 {
+    background-color: black;
+    position: relative;
+    background-size: cover;
+    top: 938px;
+    background-position: 100%;
+    width: 100%;
+}
+.float-child2 {
+    position: relative;
+    top: 943px;
+}
+
+
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+.float-child2 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+.texthead11 {
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text16 {
+    position: relative;
+    right: 687px;
+}
+.texthead12 {
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text17 {
+    position: relative;
+    right: 687px;
+}
+.texthead13 {
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text18 {
+    position: relative;
+    right: 687px;
+}
+.texthead14 {
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text19{
+    position: relative;
+    right: 687px;
+}
+.texthead15 {
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text20 {
+    position: relative;
+    right: 687px;
+}
+.texthead16{
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text21 {
+    position: relative;
+    right: 687px;
+}
+.texthead17 {
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text22 {
+    position: relative;
+    right: 687px;
+}
+.texthead18 {
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text23{
+    position: relative;
+    right: 687px;
+}
+.texthead19 {
+    position: relative;
+    right: 677px;
+    color: red;
+}
+.text24{
+    position: relative;
+    right: 687px;
+}
+
+.text25 {
+    position: relative;
+    right: -730px;
+    top: -1px;
+}
+.page2 {
+    position: absolute;
+    top: -884px;
+    left: 59px;
+}
+.texthead19 {
+    position: relative;
+    left: 900px;
+    color: red;
+    top: -6px;
+}
+.texthead20 {
+    position: relative;
+    right: -965px;
+    color: red;
+}
+.text26 {
+    position: relative;
+    right: -707px;
+}
+.texthead21 {
+    position: relative;
+    right: -779px;
+    color: red;
+}
+.text27 {
+    position: relative;
+    right: -1063px;
+}
+
+
+.texthead22 {
+    position: relative;
+    right: -1033px;
+    color: red;
+}
+.text28 {
+    position: relative;
+    right: -701px;
+}
+.texthead23 {
+    position: relative;
+    right: -976px;
+    color: red;
+}
+.text29 {
+    position: relative;
+    right: -724px;
+}
+.texthead24 {
+    position: relative;
+    right: -1144px;
+    color: red;
+}
+.text30 {
+    position: relative;
+    right: -745px;
+}
+.texthead25 {
+    position: relative;
+    right: -1090px;
+    color: red;
+}
+.text31 {
+    position: relative;
+    right: -734px;
+}
+.texthead26 {
+    position: relative;
+    right: -1183px;
+    color: red;
+}
+.text32 {
+    position: relative;
+    right: -731px;
+    top: 0px;
+}
+.page2\.2 {
+    position: relative;
+    right: 40px;
+}
+
+
+
+
+
+.img3 {
+    position: relative;
+    width: 251px;
+    left: 1101px;
+    top: 1px;
+}
+.section3 {
+    background-color: black;
+    position: absolute;
+    background-size: cover;
+    top: 2244px;
+    background-position: 100%;
+    width: 100%;
+}
+.texthead27 {
+    position: relative;
+    right: 707px;
+    top: 1159px;
+    color: red;
+}
+.text32 {
+    position: relative;
+    right: -731px;
+    top: 0px;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+.float-child3 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+.text33 {
+    position: relative;
+    top: 1187px;
+    right: 719px;
+}
+.subhead3 {
+    position: relative;
+    top: 1217px;
+    right: 696px;
+    background-color: black;
+    color: aliceblue;
+}
+.text34 {
+    position: relative;
+    top: 1234px;
+    right: 715px;
+}
+.texthead28 {
+    position: relative;
+    top: 563px;
+    right: -1202px;
+    color: red;
+}
+.text35 {
+    position: relative;
+    top: 589px;
+    right: -747px;
+}
+.subhead3\.2 {
+    position: relative;
+    top: 655px;
+    right: -1000px;
+    color: aliceblue;
+    background-color: black;
+}
+.subhead4\.2 {
+    position: relative;
+    top: 655px;
+    right: -1000px;
+    color: aliceblue;
+    background-color: black;
+}
+.text36 {
+    position: relative;
+    top: 675px;
+    right: -732px;
+}
+img.img4 {
+    position: relative;
+    top: 1px;
+    right: -1061px;
+    width: 17%;
+}
+.text37 {
+    position: relative;
+    top: 1514px;
+    right: 692px;
+}
+.subhead4 {
+    position: relative;
+    top: 1549px;
+    right: 698px;
+    background-color: black;
+    color: aliceblue;
+}
+.section4 {
+    background-color: black;
+    position: absolute;
+    background-size: cover;
+    top: 3144px;
+    width: 100%;
+}
+.text38 {
+    position: relative;
+    top: 1583px;
+    right: 704px;
+}
+
+.subhead4.2 {
+    position: relative;
+    top: 1549px;
+    right: 698px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.text39 {
+    position: relative;
+    top: 1047px;
+    right: -32px;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+.float-child4{
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+.subhead4\.2 {
+    position: relative;
+    top: 1109px;
+    right: -33px;
+    background-color: black;
+    color: aliceblue;
+}
+.text40 {
+    
+    position: relative;
+    top: 1158px;
+    right: -32px;
+}
+
+.text41 {
+    position: relative;
+    top: 1216px;
+    right: 700px;
+}
+.text41 {
+    position: relative;
+    top: 1222px;
+    right: 700px;
+}
+.text42 {
+    position: relative;
+    top: 1226px;
+    right: 700px;
+}
+.text43 {
+    position: relative;
+    top: 1241px;
+    right: 700px;
+}
+.text44 {
+    position: relative;
+    top: 1127px;
+    right: -597px;
+}
+.text45 {
+    position: relative;
+    top: 1143px;
+    right: -579px;
+}
+.text46 {
+    position: relative;
+    top: 1155px;
+    right: -611px;
+}
+
+.contacts {
+    position: relative;
+    right: -731px;
+    top: 100px;
+}
+
+img.img5 {
+    position: relative;
+    top: 1329px;
+    right: 0px;
+    width: 100%;
+}
+
+img.img6 {
+    position: relative;
+    top: 1000px;
+    right: 0px;
+    width: 100%;
+}
+.page3-div {
+    position: relative;
+    left: -16px;
+    border: 1px red;
+}
